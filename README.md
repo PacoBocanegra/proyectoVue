@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+# Idea del proyecto
+Consiste en una pequeña aplicación de posts de usuarios que cargan de un JSON. Permite filtrar entre categorias y ver individualmente cada post.
+
 ## Build Setup
 
 ``` bash
